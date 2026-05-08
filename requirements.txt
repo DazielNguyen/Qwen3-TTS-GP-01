@@ -1,0 +1,13 @@
+transformers==4.57.3
+accelerate==1.12.0
+gradio
+librosa
+torchaudio
+soundfile
+sox
+onnxruntime
+einops
+numpy
+torch
+requests
+huggingface-hub
